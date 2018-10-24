@@ -266,11 +266,8 @@ WSdgtdesk/Web.config
 #packages
 packages/
 
-#solucion
-*.sln
-
+#properties
 WSdgtdesk/Properties/
 WSdgtdesk/Web.Debug.config
 WSdgtdesk/Web.Release.config
-WSdgtdesk/WSdgtdesk.csproj
-WSdgtdesk/WSdgtdesk.csproj.user
+
